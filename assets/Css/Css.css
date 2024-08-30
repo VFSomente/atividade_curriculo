@@ -111,3 +111,23 @@ ul li {
 .educacao {
     top: 20rem;
 }
+@media all and (max-width: 568px) 
+{.section {
+    width: 100%;
+} 
+}
+@media all and (min-width: 569px) and (max-width: 768px)
+{.section {
+    width: 50%;
+} 
+}
+@media all and (min-width: 769px) and (max-width: 1200px)
+{.section {
+    width: 33.33%;
+} 
+}
+@media all and (min-width: 1200px)
+{.section {
+    width: 25%;
+} 
+}
