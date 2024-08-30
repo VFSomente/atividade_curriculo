@@ -75,7 +75,7 @@ a {
 }
 .conhecimento-content {
     position: relative;
-    top: 14rem;
+    top: 30rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: var(--gap);
@@ -91,7 +91,7 @@ ul li {
 }
 .contato-content {
     position: relative;
-    top: -15rem;
+    top: 21rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: var(--gap);
